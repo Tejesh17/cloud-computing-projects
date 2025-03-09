@@ -1,0 +1,1 @@
+python3 p2_grader.py --access_keyId <access_keyId> --access_key <access-key> --req_sqs <req-queue> --resp_sqs <resp-queue> --in_bucket <in-bucket> --out_bucket <out-bucket>

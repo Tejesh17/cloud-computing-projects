@@ -1,0 +1,1 @@
+ python3 workload.py --access_key=<access-key> --secret_key=<secret-key> --asu_id=<secret-key> --testcase_folder=<test-videos-folder>

@@ -1,0 +1,91 @@
+INFO:__main__:Message recieved- test_990.jpg
+INFO:__main__:Downloaded object- test_990.jpg
+INFO:__main__:Result- Paul
+INFO:__main__:Uploaded out bucket- test_990.txt
+INFO:__main__:Sent message response queue- test_990.txt
+INFO:__main__:Deleted messagetest_990.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_992.jpg
+INFO:__main__:Downloaded object- test_992.jpg
+INFO:__main__:Result- Bob
+INFO:__main__:Uploaded out bucket- test_992.txt
+INFO:__main__:Sent message response queue- test_992.txt
+INFO:__main__:Deleted messagetest_992.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_987.jpg
+INFO:__main__:Downloaded object- test_987.jpg
+INFO:__main__:Result- Ranil
+INFO:__main__:Uploaded out bucket- test_987.txt
+INFO:__main__:Sent message response queue- test_987.txt
+INFO:__main__:Deleted messagetest_987.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_986.jpg
+INFO:__main__:Downloaded object- test_986.jpg
+INFO:__main__:Result- Gerry
+INFO:__main__:Uploaded out bucket- test_986.txt
+INFO:__main__:Sent message response queue- test_986.txt
+INFO:__main__:Deleted messagetest_986.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_932.jpg
+INFO:__main__:Downloaded object- test_932.jpg
+INFO:__main__:Result- Bob
+INFO:__main__:Uploaded out bucket- test_932.txt
+INFO:__main__:Sent message response queue- test_932.txt
+INFO:__main__:Deleted messagetest_932.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_947.jpg
+INFO:__main__:Downloaded object- test_947.jpg
+INFO:__main__:Result- Ranil
+INFO:__main__:Uploaded out bucket- test_947.txt
+INFO:__main__:Sent message response queue- test_947.txt
+INFO:__main__:Deleted messagetest_947.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_947.jpg
+INFO:__main__:Downloaded object- test_947.jpg
+INFO:__main__:Result- Ranil
+INFO:__main__:Uploaded out bucket- test_947.txt
+INFO:__main__:Sent message response queue- test_947.txt
+INFO:__main__:Deleted messagetest_947.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_932.jpg
+INFO:__main__:Downloaded object- test_932.jpg
+INFO:__main__:Result- Bob
+INFO:__main__:Uploaded out bucket- test_932.txt
+INFO:__main__:Sent message response queue- test_932.txt
+INFO:__main__:Deleted messagetest_932.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_955.jpg
+INFO:__main__:Downloaded object- test_955.jpg
+INFO:__main__:Result- Gerry
+INFO:__main__:Uploaded out bucket- test_955.txt
+INFO:__main__:Sent message response queue- test_955.txt
+INFO:__main__:Deleted messagetest_955.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_732.jpg
+INFO:__main__:Downloaded object- test_732.jpg
+INFO:__main__:Result- Bob
+INFO:__main__:Uploaded out bucket- test_732.txt
+INFO:__main__:Sent message response queue- test_732.txt
+INFO:__main__:Deleted messagetest_732.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_855.jpg
+INFO:__main__:Downloaded object- test_855.jpg
+INFO:__main__:Result- Gerry
+INFO:__main__:Uploaded out bucket- test_855.txt
+INFO:__main__:Sent message response queue- test_855.txt
+INFO:__main__:Deleted messagetest_855.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_946.jpg
+INFO:__main__:Downloaded object- test_946.jpg
+INFO:__main__:Result- Gerry
+INFO:__main__:Uploaded out bucket- test_946.txt
+INFO:__main__:Sent message response queue- test_946.txt
+INFO:__main__:Deleted messagetest_946.jpg
+INFO:__main__:_____________
+INFO:__main__:Message recieved- test_933.jpg
+INFO:__main__:Downloaded object- test_933.jpg
+INFO:__main__:Result- German
+INFO:__main__:Uploaded out bucket- test_933.txt
+INFO:__main__:Sent message response queue- test_933.txt
+INFO:__main__:Deleted messagetest_933.jpg
+INFO:__main__:_____________

@@ -1,0 +1,1 @@
+python3 grade.py --access_key=<access_key> --secret_key=<secret-key> --asu_id=<asu_id>

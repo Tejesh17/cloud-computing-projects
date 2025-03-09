@@ -1,0 +1,1 @@
+gunicorn app:gunicorn_app -t 120 --threads 20 --bind 0.0.0.0:3000
